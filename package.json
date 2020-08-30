@@ -1,7 +1,7 @@
 {
-  "name": "amp-project-starter",
+  "name": "nzianxyz",
   "version": "1.0.0",
-  "description": "Starter for your next AMP page",
+  "description": "Nzianxyz created with AMP love",
   "main": "index.js",
   "scripts": {
     "postinstall": "npm run build",
@@ -12,25 +12,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bersling/amp-project-starter.git"
+    "url": "git+https://github.com/ziauddin/amp-project-starter.git"
   },
   "keywords": [
     "Starter",
     "AMP",
     "Boilerplate",
-    "Seed"
+    "Seed",
+    "Nzianxyz"
   ],
-  "author": "Hans Mueller <hans@gmail.com>",
+  "author": "Ziauddin <nzianit@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bersling/amp-project-starter/issues"
+    "url": "https://github.com/ziauddin/amp-project-starter/issues"
   },
-  "homepage": "https://github.com/bersling/amp-project-starter#readme",
+  "homepage": "https://github.com/ziauddin/amp-project-starter#readme",
   "devDependencies": {
-    "amphtml-validator": "^1.0.20",
-    "express": "^4.15.3",
-    "mustache": "^2.3.0",
-    "node-sass": "^4.5.3",
-    "normalize-scss": "^7.0.0"
+    "amphtml-validator": "^1.0.33",
+    "express": "^4.17.1",
+    "mustache": "^4.0.1",
+    "node-sass": "^4.14.1",
+    "normalize-scss": "^7.0.1"
   }
 }
